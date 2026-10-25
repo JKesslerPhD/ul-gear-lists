@@ -1,0 +1,1381 @@
+list_id,role,item,weight_g,via
+1,pack,Pack,929,text
+1,pad,Pad,224,text
+1,quilt,Bag,752,text
+1,shelter,Tarp,371,text
+2,pack,KS4,388,text
+2,pad,Neoair:XLite L,458,text
+2,quilt,Nunatak Arc UL 30,552,text
+2,shelter,SLD Tarp,345,text
+3,pack,KS 50 w/ Frame Set  (EPX 200): 25.1 oz,712,text
+3,pad,Neoair Xlite Small: 8 oz,227,text
+3,quilt,,,
+3,shelter,Stratospire Li: 30 oz,850,text
+4,pack,GG4-20: 21.5 oz,610,text
+4,pad,Zlite 8 panel: 8 oz,227,text
+4,quilt,palisade 30: 23 oz,652,text
+4,shelter,Lightheart Duo: 37.5 oz,1063,text
+5,pack,Bears Ears 50 (Mod),680,text
+5,pad,NeoAir Uberlite,332,text
+5,quilt,Enigma 30*,485,text
+5,shelter,Plex Solo Lite Tent,359,text
+6,pack,Dandee Backpack,167,text
+6,pad,Zlite 5 panels,132,text
+6,quilt,30F Timmermade Newt,422,text
+6,shelter,Borah Solo Tarp,204,text
+7,pack,Zpacks Arc blast: 23 oz,652,text
+7,pad,Neoair Uberlite Large: 11.15 oz,316,text
+7,quilt,Nunatak Arc UL 25: 20.6 oz,584,text
+7,shelter,Zpacks Altaplex: 16.4 oz,465,text
+8,pack,Backpack: 33.6 oz,953,text
+8,pad,Sleeping Pad: 17.25 oz,489,text
+8,quilt,Sleeping Bag: 19 oz,539,text
+8,shelter,Tent: 41 oz,1162,text
+9,pack,SWD Long Haul 50,944,text
+9,pad,Therm-a-Rest NeoAir XLite,410,text
+9,quilt,Revelation Quilt,746,text
+9,shelter,Tiger wall ul 2,647,text
+10,pack,Backpack,770,text
+10,pad,Sleeping Pad,455,text
+10,quilt,Quilt,590,text
+10,shelter,Fly,595,text
+11,pack,Backpack,441,text
+11,pad,Sleeping pad,358,text
+11,quilt,Quilt,562,text
+11,shelter,Tarp,256,text
+12,pack,Backpack: 18 oz,510,text
+12,pad,Sleeping pad: 23 oz,652,text
+12,quilt,22 Down Quilt: 23.6 oz,669,text
+12,shelter,Tent: 20 oz,567,text
+13,pack,3F UL Gear QiDian Pro backpack,895,text
+13,pad,StS SI Comfort Light pad,775,text
+13,quilt,Cumulus Comforter M400 quilt,580,text
+13,shelter,3F UL Lanshan 1 tent,802,text
+14,pack,LiteAF 35L,436,text
+14,pad,,,
+14,quilt,EE Double Quilt,652,text
+14,shelter,ZPacks Triplex,638,text
+15,pack,Ohm 2.0: 28 oz,794,text
+15,pad,Neoair NXT wide mummy: 16 oz,454,text
+15,quilt,UGQ Bandit 76x55 20F: 24 oz,680,text
+15,shelter,Durston x-mid 1p: 28 oz,794,text
+16,pack,Zpacks Nero: 12 oz,340,text
+16,pad,Gossamer Gear Thinlight Pad: 2.5 oz,71,text
+16,quilt,MLD FKT Quilt: 17 oz,482,text
+16,shelter,MLD FKT Event Soul Bivy: 11 oz,312,text
+17,pack,Atompacks Atom 35L,463,text
+17,pad,NeoAir XLite mattress,442,text
+17,quilt,Custom Cumulus XLite 300 Bag,521,text
+17,shelter,ZPacks Plexamid,447,text
+18,pack,Exped lightnint 60,1100,category
+18,pad,Nordisk Ven 2.5,305,category
+18,quilt,Cumulus Panyam 450,810,text
+18,shelter,Trekkretent stealth 1,670,text
+19,pack,Pack: 15 oz,425,text
+19,pad,Sleeping pad: 16 oz,454,text
+19,quilt,Quilt: 13.22 oz,375,text
+19,shelter,Shelter : 15.8 oz,448,text
+20,pack,Pack,638,text
+20,pad,Pad,450,text
+20,quilt,Quilt,631,text
+20,shelter,Inner tent,426,text
+21,pack,backpack,453,text
+21,pad,sleeping pad: 8 oz,227,text
+21,quilt,quilt,550,text
+21,shelter,tarp: 14 oz,397,text
+22,pack,SWD Superior 30 Frameless: 12.1 oz,343,text
+22,pad,GG Nightlight Torso Pad: 5.1 oz,145,text
+22,quilt,Katabatic Palisade Quilt: 17.7 oz,502,text
+22,shelter,MLD Pro Poncho DCF: 6.75 oz,191,text
+23,pack,Backpack,404,text
+23,pad,Sleeping pad,77,text
+23,quilt,Sleeping quilt,644,text
+23,shelter,Tarp,288,text
+24,pack,bergans helium v5 55,923,text
+24,pad,Therm-a-Rest NeoAir XLite,369,text
+24,quilt,AEGISMAX Wind Hard Twilight,629,text
+24,shelter,ASTAGEAR windsong 2,480,category
+25,pack,"Luxmore, Wilderness Threadworks",910,text
+25,pad,"Klymit, Insulated Static V Lite pad",562,text
+25,quilt,"Zpacks, regular bag",433,text
+25,shelter,Zpacks Duplex,581,text
+26,pack,vest-style pack: 13.9 oz,394,text
+26,pad,summer pad: 13.3 oz,377,text
+26,quilt,summer quilt: 12.9 oz,366,text
+26,shelter,light 360 tarp: 5.3 oz,150,text
+27,pack,Backpack,313,text
+27,pad,Sleeping Pad,54,text
+27,quilt,Sleeping Bag,427,text
+27,shelter,Bivy,122,text
+28,pack,Pa'Lante Packs V2: 16.5 oz,468,text
+28,pad,Xlite,205,text
+28,quilt,Nunatak 30 ARC UL: 18.7 oz,530,text
+28,shelter,HMG 8x10: 10.7 oz,303,text
+29,pack,MLD Hell 27 w/accessories,372,text
+29,pad,TaR Ridgerest Half,179,text
+29,quilt,TaR Vesper 32,425,category
+29,shelter,,,
+30,pack,cutaway pack: 12.3 oz,349,text
+30,pad,,,
+30,quilt,ee revelation: 18.5 oz,524,text
+30,shelter,myog bivy: 4.5 oz,128,text
+31,pack,Atom packs,626,text
+31,pad,Sleeping Pad,445,text
+31,quilt,Quilt,680,text
+31,shelter,Tarp Bug Bivy,190,text
+32,pack,pack: 29 oz,822,text
+32,pad,pad: 10.7 oz,303,text
+32,quilt,quilt: 21.1 oz,598,text
+32,shelter,shelter: 11.7 oz,332,text
+33,pack,Granite gear dagger 22l: 24 oz,680,text
+33,pad,Pad: 25 oz,709,text
+33,quilt,Sleeping bag: 30 oz,850,text
+33,shelter,Tarp: 18 oz,510,text
+34,pack,Pack: 17.16 oz,486,text
+34,pad,Sleeping Pad: 12.66 oz,359,text
+34,quilt,Quilt: 18.72 oz,531,text
+34,shelter,Mid-Layer Top: 12.24 oz,347,text
+35,pack,,,
+35,pad,Sleeping pad: 21.05 oz,597,text
+35,quilt,Quilt: 23.8 oz,675,text
+35,shelter,Tent: 15.8 oz,448,text
+36,pack,Pack: 18 oz,510,text
+36,pad,Pad: 12 oz,340,text
+36,quilt,Quilt: 13.9 oz,394,text
+36,shelter,Tent: 22 oz,624,text
+37,pack,HMG 3400 Southwest: 33.36 oz,946,text
+37,pad,MYOG APEX 30 Underquilt: 23.59 oz,669,underquilt
+37,quilt,MYOG APEX 30 top quilt: 20.2 oz,573,text
+37,shelter,Darien Dream Hammock: 17.05 oz,483,text
+38,pack,Atompacks Notch 50L: 34.9 oz,989,text
+38,pad,NeoAir Xlite Wide: 15.63 oz,443,text
+38,quilt,Nunatak UL 3 Season: 22 oz,624,text
+38,shelter,X-Mid Pro 1: 16.42 oz,466,text
+39,pack,Pa'lante Simple Pack: 13 oz,369,text
+39,pad,NeoAir Xlite Large: 15.9 oz,451,text
+39,quilt,Down quilt,765,text
+39,shelter,Equinox silnylon 8x10 tarp: 16.9 oz,479,text
+40,pack,Gossamer Gear Kumo (2015): 14.45 oz,410,text
+40,pad,Gossamer Gear Nightlight pad: 6 oz,170,text
+40,quilt,MLD Spirit Quilt 48 (L): 12.2 oz,346,text
+40,shelter,Gossamer Gear The One tent: 19.4 oz,550,text
+41,pack,Backpack: 33 oz,936,text
+41,pad,Sleeping Pad: 20 oz,567,text
+41,quilt,Quilt: 27.6 oz,782,text
+41,shelter,Tarp: 6 oz,170,text
+42,pack,Dandee SUL Pack,210,text
+42,pad,"Pad, Shortened",162,text
+42,quilt,Overquilt / 50F quilt,286,text
+42,shelter,UL Bug Bivy,177,text
+43,pack,Backpack,1290,text
+43,pad,Sleeping mat,145,text
+43,quilt,Apex quilt,439,text
+43,shelter,Tent,465,text
+44,pack,Backpack,411,text
+44,pad,Pad,246,text
+44,quilt,Bag,494,text
+44,shelter,Tent,1045,text
+45,pack,Backpack: 17.2 oz,488,text
+45,pad,Pad: 15.9 oz,451,text
+45,quilt,Quilt: 1.5 lb,680,text
+45,shelter,Tent,468,text
+46,pack,Atom Packs The Atom+ 40,651,text
+46,pad,Therm-A-Rest Xlite NXT Reg,370,text
+46,quilt,Cumulus Quilt 350,638,text
+46,shelter,X-Mid Pro 2,608,text
+47,pack,Zpacks,632,text
+47,pad,Nemo,620,text
+47,quilt,Enlightened Equipment,748,text
+47,shelter,Zpacks Plex Solo Tent,374,text
+48,pack,Pack: 13.6 oz,386,text
+48,pad,Thermarest Prolite: 15.7 oz,445,text
+48,quilt,Quilt: 24.1 oz,683,text
+48,shelter,Tarp: 6.6 oz,187,text
+49,pack,,,
+49,pad,Sleeping Pad: 7.2 oz,204,text
+49,quilt,Quilt : 24.4 oz,692,text
+49,shelter,Shelter: 17.1 oz,485,text
+50,pack,Dandee Standard 35L,435,text
+50,pad,Thermarest XLite,497,text
+50,quilt,Cumulus Quilt 350,670,text
+50,shelter,Myog shaped tarp,280,text
+51,pack,Pa'lante V2,595,text
+51,pad,NeoAir UberLight Regular Wide,310,text
+51,quilt,EE Engima 20�,623,text
+51,shelter,Zpacks Duplex Spruce Green,610,text
+52,pack,SWD Superior 40 (X-Pac VX07),518,text
+52,pad,Therm-a-Rest XLite Pad (regular wide),420,text
+52,quilt,Nunatak Arc UL 40� Summer Quilt,495,text
+52,shelter,Tarptent StratoSpire Li (mesh),782,text
+53,pack,Dandee SUL,156,text
+53,pad,Pad,340,text
+53,quilt,Summer Quilt,300,text
+53,shelter,Bivy,148,text
+54,pack,Backpack lil: 15.18 oz,430,text
+54,pad,Pad: 12 oz,340,text
+54,quilt,Quilt: 19.2 oz,544,text
+54,shelter,Tarp: 9.5 oz,269,text
+55,pack,Gossamer Gear Kumo 36: 18.9 oz,536,text
+55,pad,Thermarest Z-Lite Sol: 10.1 oz,286,text
+55,quilt,Loco Libre Gear Operator Series Ghost Pepper Quilt: 20.91 oz,593,text
+55,shelter,Dan Durston X-Mid 1p (Fly only): 18.6 oz,527,text
+56,pack,Osprey Exos 48,1200,text
+56,pad,S2S Comfort Light,800,text
+56,quilt,Aegismax Nano 2 L,750,text
+56,shelter,Tarptent Rainbow,900,text
+57,pack,Vest Pack,460,text
+57,pad,Sleep Pad,278,text
+57,quilt,Quilt,420,text
+57,shelter,X-Mid 2P Pro,575,text
+58,pack,U-shaped bent pack frame: 5 oz,142,text
+58,pad,Italian copper axe - expensive: 16 oz,454,brand
+58,quilt,,,
+58,shelter,,,
+59,pack,Backpack,303,text
+59,pad,Sleep pad,230,text
+59,quilt,Quilt,334,text
+59,shelter,Shelter,148,text
+60,pack,pack: 21 oz,595,text
+60,pad,sleeping pad: 8.6 oz,244,text
+60,quilt,quilt: 17.5 oz,496,text
+60,shelter,tent: 21 oz,595,text
+61,pack,,,
+61,pad,Pad: 21 oz,595,text
+61,quilt,Quilt: 23.49 oz,666,text
+61,shelter,Tent: 2.4 lb,1089,text
+62,pack,Frameless pack,440,text
+62,pad,Underquilt,634,underquilt
+62,quilt,Top quilt,624,text
+62,shelter,Hammock,500,text
+63,pack,Pack,1310,text
+63,pad,Sleeping Pad,455,text
+63,quilt,Sleeping Bag,580,text
+63,shelter,Tent,1438,text
+64,pack,Zpacks Nero,282,text
+64,pad,Thermarest Neo Air XLite L Torso Cut,319,text
+64,quilt,Cedar Ridge LeConte 50F quilt,333,text
+64,shelter,Tarptent Aeon Li,540,text
+65,pack,Salomon XA 25 Set,443,category
+65,pad,Gossamer Gear,90,text
+65,quilt,Katabatic Gear,594,text
+65,shelter,Mountain Laurel Designs,178,category
+66,pack,Jaylife 13 Sensu 40L,1200,text
+66,pad,Underquilt,700,underquilt
+66,quilt,Naturehike 800fp down bag,500,text
+66,shelter,TTTM King Hammock,800,text
+67,pack,Pack (frameless),616,text
+67,pad,Pad,490,text
+67,quilt,Quilt,760,text
+67,shelter,Tent plus bag,550,text
+68,pack,Pack: 14 oz,397,text
+68,pad,Pad: 12 oz,340,text
+68,quilt,Quilt: 19 oz,539,text
+68,shelter,Tent: 17 oz,482,text
+69,pack,Nashville Cutaway 30: 15.8 oz,448,text
+69,pad,Nemo Tensor Elite: 10.4 oz,295,text
+69,quilt,EE Enigma: 21.5 oz,610,text
+69,shelter,MLD DCF Poncho Tarp + stuff sack: 4.19 oz,119,text
+70,pack,Nashville Pack Cutaway : 15 oz,425,text
+70,pad,Therma-Rest X Air Light: 8 oz,227,text
+70,quilt,Katabatic Palisade: 17.6 oz,499,text
+70,shelter,MLD Solomid XL : 13.5 oz,383,text
+71,pack,Pack,781,text
+71,pad,NeoAir XLite,423,text
+71,quilt,40� EE Revelation,484,text
+71,shelter,Tarptent Protrail Li,466,text
+72,pack,30L Sonder,400,text
+72,pad,Ubie lite,340,category
+72,quilt,Undercling Mike,500,text
+72,shelter,ZPacks Hexamid,405,text
+73,pack,Pack: 28.15 oz,798,text
+73,pad,Sleeping Pad: 12 oz,340,text
+73,quilt,Sleeping Bag: 13.07 oz,371,text
+73,shelter,Tent: 16.8 oz,476,text
+74,pack,Backpack,492,text
+74,pad,Sleeping Pad,154,text
+74,quilt,Quilt,567,text
+74,shelter,Tarp,300,text
+75,pack,Matador Freerain 32: 10.6 oz,300,category
+75,pad,Klymit Inertia X Lite: 5.6 oz,159,text
+75,quilt,Featherstone Moondance 25 Quilt: 27 oz,765,text
+75,shelter,Etowah Outfitters DCF Tarp: 6.6 oz,187,text
+76,pack,MLD Burn: 13.25 oz,376,text
+76,pad,Thermarest XLite NXT Regular: 13.25 oz,376,text
+76,quilt,EE Revlation 50: 12.5 oz,354,category
+76,shelter,SLD Tarp: 13 oz,369,text
+77,pack,KS UL 8L running vest: 7.84 oz,222,text
+77,pad,Thermarest NeoAir XLite pad: 8.44 oz,239,text
+77,quilt,ElCoyote Alphalite 30F quilt: 16.52 oz,468,text
+77,shelter,Tarptent Sidecar inner tent (incl. stuff sack): 7.16 oz,203,text
+78,pack,Pack,907,text
+78,pad,Pad: 12 oz,340,text
+78,quilt,Bag: 0.79 kg,790,text
+78,shelter,Tent,879,text
+79,pack,Hyperlite Mountain Gear Windrider 2400,861,text
+79,pad,Thermarest NeoAir XLite,437,text
+79,quilt,Nunatak Nano Quilt,426,text
+79,shelter,MLD Cricket,406,text
+80,pack,Pack - Backpack: 20.9 oz,592,text
+80,pad,Sleep - Sleeping Pad: 11 oz,312,text
+80,quilt,Sleep - Quilt: 15.6 oz,442,text
+80,shelter,Shelter - Bug Net: 9 oz,255,text
+81,pack,Fastpack: 13.9 oz,394,text
+81,pad,Sleeping Pad: 11 oz,312,text
+81,quilt,Quilt: 19.2 oz,544,text
+81,shelter,Tent,494,text
+82,pack,SEEK OUTSIDE: 65 oz,1843,text
+82,pad,Thermarest: 23 oz,652,text
+82,quilt,Katabatic: 26.2 oz,743,text
+82,shelter,Dan Durston: 28.1 oz,797,text
+83,pack,GG GorillaBackpack : 13.54 oz,384,text
+83,pad,CCF Sleeping Pad: 5.7 oz,162,text
+83,quilt,Summer Quilt: 11.46 oz,325,text
+83,shelter,1P Tent: 31.18 oz,884,text
+84,pack,Backpack,931,text
+84,pad,Sleeping pad,380,text
+84,quilt,Summer quilt,434,text
+84,shelter,Poncho tarp,205,text
+85,pack,MontMolar Alpine: 12.1 oz,343,text
+85,pad,GG Torso Pad: 2.8 oz,79,text
+85,quilt,Nunatak Sulo 25: 20.05 oz,568,text
+85,shelter,Yama Cirriform 1P: 14.06 oz,399,text
+86,pack,Backpack: 27.7 oz,785,text
+86,pad,Sleeping pad: 7.62 oz,216,text
+86,quilt,Quilt: 24 oz,680,text
+86,shelter,Shelter: 30.5 oz,865,text
+87,pack,Saunter Packs Amble 35L: 15.88 oz,450,text
+87,pad,Therm-a-Rest NeoAir XLite: 12.9 oz,366,text
+87,quilt,EE Enigma 20F Reg/Reg 950 fill: 19.95 oz,566,text
+87,shelter,Six Moon Designs Gatewood Cape: 10.5 oz,298,text
+88,pack,Palante V2: 17.1 oz,485,text
+88,pad,Therm-a-Rest Neoair Xlite: 15 oz,425,text
+88,quilt,20 degree quilt: 24.4 oz,692,text
+88,shelter,Borah solo: 8.6 oz,244,text
+89,pack,Kumo 36: 20 oz,567,text
+89,pad,NeoAir XLite Sleeping Pad : 15 oz,425,text
+89,quilt,Nunatak Arc: 21.8 oz,618,text
+89,shelter,x-mid: 35 oz,992,text
+90,pack,GG Gorilla (Spring 2019): 29.8 oz,845,text
+90,pad,ThermoRest NeoAir XLite: 12.3 oz,349,text
+90,quilt,Katabatic Alsek 22: 23 oz,652,text
+90,shelter,GG The One (Fall 2018): 22.56 oz,640,text
+91,pack,Backpack,400,text
+91,pad,Sleeping Pad,211,text
+91,quilt,Quilt,584,text
+91,shelter,Tarp,450,text
+92,pack,,,
+92,pad,NeoAir Wide: 15.79 oz,448,text
+92,quilt,,,
+92,shelter,Plex Solo: 15.35 oz,435,text
+93,pack,Pack,468,text
+93,pad,Sleeping Pad,234,text
+93,quilt,Quilt,514,text
+93,shelter,Tarp,151,text
+94,pack,Nashville Cutaway 30L: 15.14 oz,429,text
+94,pad,Therm-a-Rest NeoAir NXT Pad: 13.08 oz,371,text
+94,quilt,Katabatic Palisade: 20.7 oz,587,text
+94,shelter,Yama Cirriform 1p tarp : 13.5 oz,383,text
+95,pack,Backpack: 14.25 oz,404,text
+95,pad,Sleeping Pad: 7.1 oz,201,text
+95,quilt,Quilt: 24.3 oz,689,text
+95,shelter,Tent: 21 oz,595,text
+96,pack,Backpack,940,text
+96,pad,Sleeping pad,450,text
+96,quilt,Quilt,730,text
+96,shelter,Tent,760,text
+97,pack,Palante Desert: 20.6 oz,584,text
+97,pad,Neoair Uberlite Pad: 9.61 oz,272,text
+97,quilt,EE Revelation : 28 oz,794,text
+97,shelter,7x9 Borah: 10.8 oz,306,text
+98,pack,Nashville Cutaway: 16.5 oz,468,text
+98,pad,Neoair Xlite large: 15.9 oz,451,text
+98,quilt,Katabatic Palisade: 23.8 oz,675,text
+98,shelter,ZPacks 9x7 Tarp w/guylines: 5.5 oz,156,text
+99,pack,HMG Junction 2400,851,text
+99,pad,Therm-a-Rest Neo Air Xlite,354,text
+99,quilt,EE Revelation 40,505,text
+99,shelter,YMG tarp,318,text
+100,pack,Pack: 44 oz,1247,text
+100,pad,Sleeping Pad: 19.8 oz,561,text
+100,quilt,Quilt : 26 oz,737,text
+100,shelter,Tent2: 40 oz,1134,text
+101,pack,Pack: 17.2 oz,488,text
+101,pad,Pad: 19 oz,539,text
+101,quilt,,,
+101,shelter,Tent: 25.2 oz,714,text
+102,pack,Backpack: 14 oz,397,text
+102,pad,Nemo Pad: 7 oz,198,text
+102,quilt,Enlightened Equipment quilt: 17.8 oz,505,text
+102,shelter,,,
+103,pack,Palante V2,469,text
+103,pad,uberlite short,170,text
+103,quilt,UGQ 10*,720,text
+103,shelter,Hexamid Solo Plus,411,text
+104,pack,UL pack,445,text
+104,pad,short Pad,172,text
+104,quilt,Sleeping Bag -1c,653,text
+104,shelter,UL tent,536,text
+105,pack,Backpack: 29.5 oz,836,text
+105,pad,Pad: 15.5 oz,439,text
+105,quilt,Quilt: 17.6 oz,499,text
+105,shelter,Tent,715,text
+106,pack,HMG Windrider 3400: 32 oz,907,text
+106,pad,Nemo Tensor Reg: 15 oz,425,text
+106,quilt,EE Enigma 20 WL: 25 oz,709,text
+106,shelter,ZPacks Duplex: 19 oz,539,text
+107,pack,GG Murmur 36: 8.1 oz,230,text
+107,pad,Thermarest: 7.7 oz,218,text
+107,quilt,Quilt 40*: 12.9 oz,366,text
+107,shelter,Tarp: 9 oz,255,text
+108,pack,Pack: 13 oz,369,text
+108,pad,Nemo Tensor: 13 oz,369,text
+108,quilt,CRO LeConte 40*: 15 oz,425,text
+108,shelter,BPWD 8.5'x10' DCF flat tarp: 7.3 oz,207,text
+109,pack,pack: 12.9 oz,366,text
+109,pad,pad: 5 oz,142,text
+109,quilt,quilt: 17.9 oz,507,text
+109,shelter,tarp: 9.2 oz,261,text
+110,pack,Bonfus Framus 48,750,category
+110,pad,DIY Underquilt,500,underquilt
+110,quilt,DIY Topquilt,500,text
+110,shelter,Durston X-Mid Pro 2+,550,text
+111,pack,Backpack,488,text
+111,pad,Sleeping Pad,310,text
+111,quilt,Quilt,640,text
+111,shelter,Tent,440,text
+112,pack,Backpack,440,text
+112,pad,Sleeping Pad,550,text
+112,quilt,Quilt,385,text
+112,shelter,Tent & Stakes,912,text
+113,pack,Backpack/Pillowcase: 7 oz,198,text
+113,pad,Pad: 4.9 oz,139,text
+113,quilt,Quilt and sack: 15.7 oz,445,text
+113,shelter,Flat Tarp,96,text
+114,pack,Backpack: 29 oz,822,text
+114,pad,Underquilt : 21.03 oz,596,underquilt
+114,quilt,Top Quilt : 21.7 oz,615,text
+114,shelter,Tarp - HG Cuben Fiber: 8.2 oz,232,text
+115,pack,Zpacks Arc Blast: 21 oz,595,text
+115,pad,Thermarest neoair x-therm: 16 oz,454,text
+115,quilt,Enlightened Equipment 10 Deg. Enigma: 21.1 oz,598,text
+115,shelter,Zpacks Plexamid tent: 14.5 oz,411,text
+116,pack,pack: 15.2 oz,431,text
+116,pad,pad: 12 oz,340,text
+116,quilt,sleeping bag: 18 oz,510,text
+116,shelter,tent: 29.8 oz,845,text
+117,pack,Pack: 31.8 oz,902,text
+117,pad,Sleeping Pad: 13.02 oz,369,text
+117,quilt,Quilt: 20.6 oz,584,text
+117,shelter,Tent: 19 oz,539,text
+118,pack,pack,246,text
+118,pad,pad: 8 oz,227,text
+118,quilt,quilt,657,text
+118,shelter,tarp,309,text
+119,pack,Backpack,739,text
+119,pad,,,
+119,quilt,Quilt,611,text
+119,shelter,Tarp,418,text
+120,pack,Hyberg Loner Lite 450 L,658,text
+120,pad,Nemo Switchback,168,text
+120,quilt,,,
+120,shelter,Tarp,193,text
+121,pack,Pack,890,text
+121,pad,Sleeping Pad,1202,text
+121,quilt,Quilt,544,text
+121,shelter,Tent,938,text
+122,pack,MYOG Venom V0.5: 16.5 oz,468,text
+122,pad,20* UQ: 15.1 oz,428,underquilt
+122,quilt,40* Quilt : 13.5 oz,383,text
+122,shelter,Hammock 4: 14.5 oz,411,text
+123,pack,Pack,407,text
+123,pad,Mat,163,text
+123,quilt,Quilt,531,text
+123,shelter,Tent,465,text
+124,pack,backpack,669,text
+124,pad,pad,64,text
+124,quilt,quilt,543,text
+124,shelter,tent,576,text
+125,pack,Pack: 16.99 oz,482,text
+125,pad,Pad: 35.64 oz,1010,text
+125,quilt,Quilt: 19.59 oz,555,text
+125,shelter,Tarp/Poncho: 11.92 oz,338,text
+126,pack,Pack,128,text
+126,pad,,,
+126,quilt,Quilt,260,text
+126,shelter,Tarp,191,text
+127,pack,BACKPACK - 43 Liter: 20 oz,567,text
+127,pad,Mattress: 21.5 oz,610,text
+127,quilt,Quilt - 30F Down: 21.2 oz,601,text
+127,shelter,Tent: 20.5 oz,581,text
+128,pack,Pack,721,text
+128,pad,Lay Pad,387,text
+128,quilt,Under Quilt,669,text
+128,shelter,Tarp,381,text
+129,pack,"58L Backpack, Osprey Exos: 36.6 oz",1038,text
+129,pad,Nemo Tensor Regular,505,text
+129,quilt,Marmot Down Sleeping Bag: 24.76 oz,702,text
+129,shelter,Nemo Hornet 2p (Split Weight): 21.52 oz,610,text
+130,pack,Pack - HYBERG Bandit X,543,text
+130,pad,Sleeping pad - Therm-a-Rest,471,text
+130,quilt,Sleeping bag - Cumulus,735,text
+130,shelter,Tent - Tarptent,766,text
+131,pack,Pa'lante Joey V2,350,text
+131,pad,Thermarest Neoair Xlite Short,210,text
+131,quilt,MLD Vision Quilt - S,256,text
+131,shelter,STS Aeros Premium,74,brand
+132,pack,Backpack,656,text
+132,pad,Foam Mat (>10�C),196,text
+132,quilt,Quilt 5�C Comf,482,text
+132,shelter,Tarp,652,text
+133,pack,Pack: 30 oz,850,text
+133,pad,Sleep Pad: 13.5 oz,383,text
+133,quilt,Katabatic Flex 30 + 1: 21.2 oz,601,text
+133,shelter,Zpacks Hexamid Pocket Tarp: 5.57 oz,158,text
+134,pack,Backpack: 38.4 oz,1089,text
+134,pad,Sleeping Pad: 12 oz,340,text
+134,quilt,Quilt: 20 oz,567,text
+134,shelter,Tent + Stakes: 36 oz,1021,text
+135,pack,Backpack: 16 oz,454,text
+135,pad,Sleeping Pad: 16 oz,454,text
+135,quilt,Sleeping Quilt: 17.9 oz,507,text
+135,shelter,Tent: 11.8 oz,335,text
+136,pack,35L Frameless Pack: 14.4 oz,408,text
+136,pad,Sleep Pad: 2.95 oz,84,text
+136,quilt,Quilt: 18.5 oz,524,text
+136,shelter,Tent: 27.3 oz,774,text
+137,pack,Nashville cutaway: 14.1 oz,400,text
+137,pad,Nemo switchback: 6.3 oz,179,text
+137,quilt,Nunatak Arc 30 UL: 18.3 oz,519,text
+137,shelter,Cirriform silpoly 1p: 14 oz,397,text
+138,pack,Pack: 11.3 oz,320,text
+138,pad,,,
+138,quilt,,,
+138,shelter,,,
+139,pack,Dandee Packs,446,text
+139,pad,Thermarest Neoair Xlite,340,text
+139,quilt,Western Mountaineering Nanolite,420,text
+139,shelter,ZPacks Altaplex,444,text
+140,pack,Pack: 10.46 oz,297,text
+140,pad,Sleeping pad: 3.67 oz,104,text
+140,quilt,Quilt: 24.52 oz,695,text
+140,shelter,Tent: 12.55 oz,356,text
+141,pack,Hyperlite 3400 Southwest backpack: 1.95 lb,884,text
+141,pad,Therma-rest NeoAir Xlite NXT Sleeping Pad: 16 oz,454,text
+141,quilt,Enlightened Equipment Enigma Quilt: 18.7 oz,530,text
+141,shelter,Gossamer Gear Solo Tarp: 7.6 oz,215,text
+142,pack,Backpack,400,text
+142,pad,Sleeping Pad,170,text
+142,quilt,Quilt,425,text
+142,shelter,Tarp,180,text
+143,pack,SWD 30 DCF: 10.5 oz,298,text
+143,pad,zLite Sol: 7 oz,198,text
+143,quilt,Engima Revelation: 21.05 oz,597,text
+143,shelter,MLD Solo Cuben Tarp: 8 oz,227,text
+144,pack,Unbound 40L: 30 oz,850,text
+144,pad,Sleeping pad: 26.2 oz,743,text
+144,quilt,EE Revelation 50 apex quilt: 12.1 oz,343,text
+144,shelter,Altaplex tent: 17.4 oz,493,text
+145,pack,MLD Burn,522,text
+145,pad,Nemo switchback,198,text
+145,quilt,Timmermade Serpentes 20,501,text
+145,shelter,Borah ultralight bivy,187,text
+146,pack,Mini2: 13.3 oz,377,text
+146,pad,zlite : 6.2 oz,176,text
+146,quilt,MLD Vision 50: 13 oz,369,category
+146,shelter,Solomid XL: 17 oz,482,text
+147,pack,Backpack,301,text
+147,pad,Foam Sleeping Pad,185,text
+147,quilt,Quilt,591,text
+147,shelter,Tent,546,text
+148,pack,Hybrid Fastpack,311,text
+148,pad,Sleeping Pad,300,text
+148,quilt,Quilt,680,text
+148,shelter,Trekking Pole Tent,793,text
+149,pack,MLD Burn: 12 oz,340,text
+149,pad,Gossamer Gear Nightlight: 5 oz,142,text
+149,quilt,Western Mountaineering NanoLite : 10 oz,284,text
+149,shelter,MLD Cricket Tarp w/ Z-Line: 8 oz,227,text
+150,pack,Osprey Exos 48 Large,1134,text
+150,pad,Thermarest Neoair Xlite Large,460,text
+150,quilt,Marmot Phase 20 Long,755,category
+150,shelter,Borah Solo Silpoly Tarp,272,text
+151,pack,Backpack: 18 oz,510,text
+151,pad,Sleeping Pad: 12.65 oz,359,text
+151,quilt,Sleeping Bag: 15.5 oz,439,text
+151,shelter,Tent: 19.8 oz,561,text
+152,pack,Pack: 19.75 oz,560,text
+152,pad,Pad: 7.8 oz,221,text
+152,quilt,Quilt: 19.18 oz,544,text
+152,shelter,Tent: 13.9 oz,394,text
+153,pack,Atom+ 40L,743,text
+153,pad,Therm-A-Rest. NeoAir XLite,230,text
+153,quilt,Katabatic Flex 22,686,text
+153,shelter,X-Mid Pro 2,529,text
+154,pack,,,
+154,pad,sleeping mat,330,text
+154,quilt,Sleeping bag,384,text
+154,shelter,Tent,480,text
+155,pack,Backpack: 2.25 lb,1021,text
+155,pad,Sleep Pad: 1 lb,454,text
+155,quilt,Quilt: 29 oz,822,text
+155,shelter,Tent,497,text
+156,pack,Backpack: 39.2 oz,1111,text
+156,pad,Sleeping pad: 24.6 oz,697,text
+156,quilt,Sleeping bag: 34.55 oz,979,text
+156,shelter,Tent: 16.5 oz,468,text
+157,pack,Pack,486,text
+157,pad,Pad,490,text
+157,quilt,Quilt,640,text
+157,shelter,Tent,719,text
+158,pack,Backpack: 41.3 oz,1171,text
+158,pad,Sleeping Pad: 21.54 oz,611,text
+158,quilt,Sleeping Bag: 30.97 oz,878,text
+158,shelter,Rainfly: 24.21 oz,686,text
+159,pack,Backpack: 19.43 oz,551,text
+159,pad,Air Pad: 20 oz,567,text
+159,quilt,Quilt: 31 oz,879,text
+159,shelter,Cat Cut Tarp w/ Guylines,221,text
+160,pack,Osprey Kyte 36 (34L): 48.8 oz,1383,text
+160,pad,Sleeping Pad: 18.2 oz,516,text
+160,quilt,REI Sleeping Bag: 32 oz,907,text
+160,shelter,2P tent: 66 oz,1871,text
+161,pack,MLD Burn: 15.5 oz,439,text
+161,pad,Gossamer Gear Nightlight: 6.1 oz,173,text
+161,quilt,Enlightened Equipment Revelation: 24 oz,680,text
+161,shelter,MLD Trailstar: 24 oz,680,text
+162,pack,Pa'Lante Joey: 13.8 oz,391,text
+162,pad,TAR Xlite: 7.5 oz,213,text
+162,quilt,Katabatic Palisade: 19.23 oz,545,text
+162,shelter,Borah Tarp: 10 oz,284,text
+163,pack,Backpack: 8.6 oz,244,text
+163,pad,Pad: 14.64 oz,415,text
+163,quilt,Quilt: 19.33 oz,548,text
+163,shelter,Tent: 11.64 oz,330,text
+164,pack,backpack: 9.1 oz,258,text
+164,pad,sleeping pad: 6.3 oz,179,text
+164,quilt,quilt: 23.9 oz,678,text
+164,shelter,tarp: 10.9 oz,309,text
+165,pack,GG Maraposa 60,957,category
+165,pad,Gossamer Gear Thinlight Foam Pad,72,text
+165,quilt,Dutchware / Jacks R Better CHAMELEON ZIP-ON UNDERQUILT,730,text
+165,shelter,Dutchware Chameleon,399,text
+166,pack,RUCKSACK,1093,text
+166,pad,SLEEPING PAD,598,text
+166,quilt,QUILT,796,text
+166,shelter,,,
+167,pack,Pack,440,text
+167,pad,Sleeping Pad,440,text
+167,quilt,Down Quilt (3 Season),595,text
+167,shelter,2P Tent,594,text
+168,pack,Craderson Carriers: 15.93 oz,452,text
+168,pad,Sleeping pad: 2.5 oz,71,text
+168,quilt,Quilt: 12.29 oz,348,text
+168,shelter,Tarp insert: 13.58 oz,385,text
+169,pack,Backpack: 16.8 oz,476,text
+169,pad,Sleeping Pad: 12 oz,340,text
+169,quilt,Down Quilt: 17.5 oz,496,text
+169,shelter,Tarp: 9.3 oz,264,text
+170,pack,Pack,428,text
+170,pad,Pad,539,text
+170,quilt,Quilt,562,text
+170,shelter,Tarp,296,text
+171,pack,SWD Long Haul 50: 38.3 oz,1086,text
+171,pad,STS Ether Light XR (Large Mummy): 24.2 oz,686,text
+171,quilt,Katabatic Gear 15�F Flex Quilt: 29.85 oz,846,text
+171,shelter,X-Mid Pro 2 Plus: 24.5 oz,695,text
+172,pack,Pack,354,text
+172,pad,Sleeping Pad,410,text
+172,quilt,Quilt,560,text
+172,shelter,Tent,477,text
+173,pack,Nayahta Designs Nimble 38L: 12.65 oz,359,text
+173,pad,Therm-a-rest NeoAir Xlite,361,text
+173,quilt,EE Engima: 20.46 oz,580,text
+173,shelter,Big Agnes Fly Creek HV UL2: 2 lb,907,text
+174,pack,Backpack - Gossamer Gear Elixir 20 Ultralight Daypack: 6.2 o,176,text
+174,pad,Pad - Exped Ultra 6.5R Mummy (Short): 11.7 oz,332,text
+174,quilt,Quilt - Timmermade Serpentes False Bottom Sleeping Bag %u201,354,text
+174,shelter,Tarp - Dyneema Tarp by Etowah Outfitters: 3.1 oz,88,text
+175,pack,Pa'lante V2,420,text
+175,pad,Thermarest Uberlite,264,text
+175,quilt,EE Revelation down quilt,533,text
+175,shelter,Zpacks Duplex,550,text
+176,pack,Cutaway: 12 oz,340,text
+176,pad,Xlite Regular: 12.3 oz,349,text
+176,quilt,Palisade 30� Quilt: 18 oz,510,text
+176,shelter,Aeon Li: 19.15 oz,543,text
+177,pack,KS 50: 17.4 oz,493,text
+177,pad,Pad: 10.9 oz,309,text
+177,quilt,Quilt: 19.4 oz,550,text
+177,shelter,Tent: 23.25 oz,659,text
+178,pack,SWD Long Haul 40: 27 oz,765,text
+178,pad,XLite NXT: 17.05 oz,483,text
+178,quilt,HG Burrow Econ: 21.38 oz,606,text
+178,shelter,TarpTent Protrail: 24.25 oz,687,text
+179,pack,Atom Pack Atom+: 19.8 oz,561,text
+179,pad,Nemo Tensor: 16 oz,454,text
+179,quilt,"Katabatic Alsek, 22*F, 6'6, 900 fill: 22.5 oz",638,text
+179,shelter,X-Mid Pro 2: 19 oz,539,text
+180,pack,Pack - Solamon Skin Pro 15,300,text
+180,pad,Pad - NeoAir Xlite Womens,343,text
+180,quilt,Bag - Englightened Equipment Rev 40* Short/Slim 950,327,text
+180,shelter,,,
+181,pack,Gossamer Kumo 36: 14.7 oz,417,text
+181,pad,Sleeping Pad: 16 oz,454,text
+181,quilt,Quilt: 21 oz,595,text
+181,shelter,Tent: 20.3 oz,575,text
+182,pack,Bag: 17.5 oz,496,text
+182,pad,Pad: 2.5 oz,71,text
+182,quilt,Quilt: 23 oz,652,text
+182,shelter,Tent: 13.9 oz,394,text
+183,pack,Pack: 11.9 oz,337,text
+183,pad,,,
+183,quilt,Quilt: 14.42 oz,409,text
+183,shelter,Shelter: 13 oz,369,text
+184,pack,Backpack,632,text
+184,pad,Sleeping Pad,430,text
+184,quilt,Quilt,598,text
+184,shelter,Shelter,262,text
+185,pack,HMG Windrider 3400: 31.84 oz,903,text
+185,pad,Therarest Pad: 12.84 oz,364,text
+185,quilt,Quilt: 17.96 oz,509,text
+185,shelter,Tarp and rope: 12.72 oz,361,text
+186,pack,REI Flash 55,1290,text
+186,pad,pad - long,618,text
+186,quilt,quilt,560,text
+186,shelter,tent - 3 Person,522,text
+187,pack,FastPack 18-24l,255,text
+187,pad,,,
+187,quilt,Quilt,264,text
+187,shelter,Tent,227,text
+188,pack,Pack: 7.9 oz,224,text
+188,pad,Sleeping Pad: 8.8 oz,249,text
+188,quilt,Sleeping Bag: 23.2 oz,658,text
+188,shelter,Tarp: 7.6 oz,215,text
+189,pack,Backpack,905,text
+189,pad,Sleeping pad,440,text
+189,quilt,Sleeping bag,990,text
+189,shelter,Tent,985,text
+190,pack,Handlebar bag,270,category
+190,pad,Sleeping Mat,480,text
+190,quilt,Quilt,460,text
+190,shelter,Tent,1560,text
+191,pack,Nashville Packs Cutaway 30L: 15.5 oz,439,text
+191,pad,Therm-a-Rest NeoAir XLite Sleeping Pad: 12.4 oz,352,text
+191,quilt,REI Co-op Magma Trail Quilt 30: 18.5 oz,524,text
+191,shelter,Borah Solo Tarp: 7.1 oz,201,text
+192,pack,MYOG ~30L pack: 11.5 oz,326,text
+192,pad,Sleeping Pad: 12 oz,340,text
+192,quilt,Quilt: 21 oz,595,text
+192,shelter,Deschutes Plus + G.S. and Stakes: 20.5 oz,581,text
+193,pack,28 Liter Frameless Pack: 17.3 oz,490,text
+193,pad,Prolite XS: 8.36 oz,237,text
+193,quilt,30 degree quilt: 18.3 oz,519,text
+193,shelter,Cricket: 8 oz,227,text
+194,pack,Dandee 38L: 13.67 oz,388,text
+194,pad,Nemo Switchback: 14.5 oz,411,text
+194,quilt,Gryphon Gear Aries: 18 oz,510,text
+194,shelter,Tarptent Preamble: 18.7 oz,530,text
+195,pack,KS Ultralight: 9.5 oz,269,text
+195,pad,Nemo: 7.75 oz,220,text
+195,quilt,Nunatak: 16.22 oz,460,text
+195,shelter,MLD: 10.03 oz,284,text
+196,pack,Pack: 39 oz,1106,text
+196,pad,Pad: 11.1 oz,315,text
+196,quilt,Sleeping bag: 37.4 oz,1060,text
+196,shelter,tent: 31.6 oz,896,text
+197,pack,Pack: 13.3 oz,377,text
+197,pad,Sleep Pad: 4.06 oz,115,text
+197,quilt,Quilt: 12.35 oz,350,text
+197,shelter,Net Tent: 8 oz,227,text
+198,pack,: 14.7 oz,417,text
+198,pad,: 10 oz,284,text
+198,quilt,: 9 oz,255,category
+198,shelter,,300,text
+199,pack,Backpack,230,text
+199,pad,Air Pad,155,text
+199,quilt,Quilt,360,text
+199,shelter,Tent,280,text
+200,pack,p&s backpack: 31.6 oz,896,text
+200,pad,sleep MLD Foam Pad 1/8: 6.6 oz,187,text
+200,quilt,"sleep Sleeping bag Zpacks 5F full zip, med blue + w/proof dr",763,text
+200,shelter,,,
+201,pack,Pack: 12.45 oz,353,text
+201,pad,Pad: 12.15 oz,344,text
+201,quilt,Quilt: 21.25 oz,602,text
+201,shelter,Tarp: 8.5 oz,241,text
+202,pack,pack: 28 oz,794,text
+202,pad,sleep pad: 18.9 oz,536,text
+202,quilt,sleep quilt: 23 oz,652,text
+202,shelter,shelter: 17 oz,482,text
+203,pack,Kumo: 21.06 oz,597,text
+203,pad,Sleeping Pad CCF: 7 oz,198,text
+203,quilt,Quilt: 22.23 oz,630,text
+203,shelter,Tarp: 15.94 oz,452,text
+204,pack,ALD - Hybride 30 backpack,450,text
+204,pad,Thermarest - Neoair Xlite Large,470,text
+204,quilt,Cumulus X-Lite 200,350,text
+204,shelter,Zpacks - Plex solo,495,text
+205,pack,NUL Sundown: 26.2 oz,743,text
+205,pad,SeatoSummit UL R Pad,521,text
+205,quilt,LSOH Serratus Down (wide): 25 oz,709,text
+205,shelter,Drop X-Mid 2p: 2.42 lb,1098,text
+206,pack,Backpack,694,text
+206,pad,Pad,363,text
+206,quilt,Quilt,750,text
+206,shelter,,,
+207,pack,Pack,853,text
+207,pad,,,
+207,quilt,Quilts,780,text
+207,shelter,Hammock,350,text
+208,pack,Pack: 18.6 oz,527,text
+208,pad,Sleeping Pad: 15.7 oz,445,text
+208,quilt,Quilt: 16.1 oz,456,text
+208,shelter,Tent: 12.2 oz,346,text
+209,pack,Backpack: 23.5 oz,666,text
+209,pad,Pad: 16.16 oz,458,text
+209,quilt,Top Quilt: 19.44 oz,551,text
+209,shelter,Tarp: 8.3 oz,235,text
+210,pack,Pack,348,text
+210,pad,Sleeping Pad,310,text
+210,quilt,Sleeping Bag,586,text
+210,shelter,Tarptent,455,text
+211,pack,Backpack,655,text
+211,pad,Sleeping Pad (x),535,text
+211,quilt,Quilt (x),712,text
+211,shelter,Shelter (x),783,text
+212,pack,Backpack: 25.76 oz,730,text
+212,pad,Pad: 20.8 oz,590,text
+212,quilt,Quilt: 26.4 oz,748,text
+212,shelter,Durston: 34.1 oz,967,text
+213,pack,GG Kumo 36: 13 oz,369,text
+213,pad,6 section Z lite: 6 oz,170,text
+213,quilt,Gryphon Gear Aries 40�: 18.2 oz,516,text
+213,shelter,Splitwing UL Tarp: 8.1 oz,230,text
+214,pack,S%u014DH/LITE Fastpack,170,text
+214,pad,Sleeping pad,240,text
+214,quilt,Sleeping bag,400,text
+214,shelter,Tarp,140,text
+215,pack,Backpack,930,text
+215,pad,Inflatable Pad,474,text
+215,quilt,Quilt,752,text
+215,shelter,TarpTent Protrail Li,515,text
+216,pack,Backpack,315,text
+216,pad,Sleeping Pad CCF,147,text
+216,quilt,Quilt,368,text
+216,shelter,Tent,347,text
+217,pack,Pack: 17 oz,482,text
+217,pad,Pad: 17 oz,482,text
+217,quilt,Quilt: 25 oz,709,text
+217,shelter,Durston XMid Pro 1: 15.5 oz,439,text
+218,pack,Durston Kakwa 55,930,text
+218,pad,Flextail R05 Long Large,583,category
+218,quilt,Simond Ultralight Quilt,765,text
+218,shelter,Durston X-Mid 1,745,text
+219,pack,Pack: 31.2 oz,884,text
+219,pad,Underquilt: 14 oz,397,underquilt
+219,quilt,Quilt: 14.38 oz,408,text
+219,shelter,Hammock: 16.4 oz,465,text
+220,pack,Exos 58 (2018): 1.2 kg,1200,text
+220,pad,Massdrop x Klymit Ultralight V Sleeping Pad,728,text
+220,quilt,Quilt,771,text
+220,shelter,Poncho Tarp (3F),178,text
+221,pack,Backpack: 28 oz,794,text
+221,pad,Sleeping Pad: 14.5 oz,411,text
+221,quilt,Sleeping Bag: 23.2 oz,658,text
+221,shelter,Tent Opt #1: 29.6 oz,839,text
+222,pack,,,
+222,pad,Big Agnes insulated axl,526,text
+222,quilt,Enlightened Revolation 40f,552,text
+222,shelter,Tarptent Protrail Li,506,text
+223,pack,Dolan minimalist 25L,360,text
+223,pad,Thermarest prolite small,304,text
+223,quilt,WM Astralite quilt,454,text
+223,shelter,Zpacks hexamid tent,275,text
+224,pack,Back Pack,510,text
+224,pad,Inflatable Mat,588,text
+224,quilt,Sleeping Bag,638,text
+224,shelter,Tent,756,text
+225,pack,Pack,542,text
+225,pad,Sleeping Pad,240,text
+225,quilt,Quilt,789,text
+225,shelter,Tarp,274,text
+226,pack,Pack 2,600,text
+226,pad,Sleeping Pad 2,444,text
+226,quilt,Quilt,538,text
+226,shelter,Tent 3F,910,text
+227,pack,ULA ohm stripped: 28 oz,794,text
+227,pad,Neoair xtherm: 15 oz,425,text
+227,quilt,Katabatic flex 22 quilt : 26.15 oz,741,text
+227,shelter,Yama cirriform rainbow tarp: 15 oz,425,text
+228,pack,pack,535,text
+228,pad,pad,270,text
+228,quilt,TQ,697,text
+228,shelter,tent,727,text
+229,pack,zimmberbuilt quickstep,370,text
+229,pad,thermarest uberlite,253,text
+229,quilt,Hammock Gear Burrow: 15.78 oz,447,text
+229,shelter,Borah bug bivy,188,text
+230,pack,Backpack: 28 oz,794,text
+230,pad,Air Mattress: 12 oz,340,text
+230,quilt,Quilt: 13.3 oz,377,text
+230,shelter,Shelter: 19.8 oz,561,text
+231,pack,Pack: 32 oz,907,text
+231,pad,Pad: 15 oz,425,text
+231,quilt,Quilt: 23 oz,652,text
+231,shelter,Tent: 24 oz,680,text
+232,pack,Pack,890,text
+232,pad,Sleeping Pad,627,text
+232,quilt,Quilt: 23.77 oz,674,text
+232,shelter,Tent Fly,595,text
+233,pack,Pack (Large): 2.34 kg,2340,text
+233,pad,Sleeping Pad,610,text
+233,quilt,Sleeping Bag,850,text
+233,shelter,,,
+234,pack,myog 35L V15: 13.9 oz,394,text
+234,pad,mld pad: 1.8 oz,51,text
+234,quilt,Katabatic flex: 25.9 oz,734,text
+234,shelter,MLD grace duo: 7.6 oz,215,text
+235,pack,Bergans Helium v5 55l,1055,text
+235,pad,Hammock Gear Premium Incubator 20F Custom Std L&W,610,underquilt
+235,quilt,"Hammock Gear Premium Burrow 20F Custom, Std L Wide w straps",645,text
+235,shelter,Hummingbird Hammocks Pelican,356,text
+236,pack,Northern UL Sundown (Frameles: 18.6 oz,527,text
+236,pad,Nemo Tensor - Reg/Wide: 19 oz,539,text
+236,quilt,LSOH -6�C Toaster TopQuilt: 26.5 oz,751,text
+236,shelter,Tarptent Aeon LI: 17.65 oz,500,text
+237,pack,Backpack,516,text
+237,pad,Sleeping Pad,226,text
+237,quilt,Quilt,547,text
+237,shelter,Tent,526,text
+238,pack,Osprey Exos 38: 32 oz,907,text
+238,pad,Klymit Ultralight V: 15.2 oz,431,text
+238,quilt,EE Revelation: 19.4 oz,550,text
+238,shelter,"Gossamer Gear ""The One"" (2016): 20 oz",567,text
+239,pack,Zpacks Zero: 11.5 oz,326,text
+239,pad,NeoAir X-Lite Sleeping Pad: 12 oz,340,text
+239,quilt,EE Revelation 20 degree quilt: 19.4 oz,550,text
+239,shelter,Zpacks Cuben Fiber Tarp: 5.7 oz,162,text
+240,pack,ULA CDT: 14 oz,397,text
+240,pad,"1/4 inch plastazote, torso: 2.8 oz",79,category
+240,quilt,Zpacks 20 degree: 19 oz,539,text
+240,shelter,MLD grace solo .74: 6.4 oz,181,category
+241,pack,Virga 2: 20.7 oz,587,text
+241,pad,Thermarest NeoAir Xlite Regular: 12.7 oz,360,text
+241,quilt,costco down throw: 15.7 oz,445,category
+241,shelter,MYOG tarp: 12.4 oz,352,text
+242,pack,Gossamer Gear Grit 28L: 14 oz,397,text
+242,pad,Gossamer Gear Sitlight Pad: 2.3 oz,65,text
+242,quilt,MYOG APEX Quilt: 11 oz,312,text
+242,shelter,Gossamer Gear Solo Tarp: 7.3 oz,207,text
+243,pack,KS3,384,text
+243,pad,,,
+243,quilt,,,
+243,shelter,,,
+244,pack,4Monster Daypack : 4 oz,113,text
+244,pad,Pad: 7 oz,198,text
+244,quilt,,,
+244,shelter,Tarp: 10 oz,284,text
+245,pack,Backpack,525,text
+245,pad,Sleeping pad,467,text
+245,quilt,Sleeping bag,850,text
+245,shelter,Tent,700,text
+246,pack,Backpack: 27.5 oz,780,text
+246,pad,Sleeping Pad: 17.3 oz,490,text
+246,quilt,Quilt: 21.8 oz,618,text
+246,shelter,Tent (1 person): 36.5 oz,1035,text
+247,pack,Nashville Pack Cutaway: 16.5 oz,468,text
+247,pad,Neoair Xlite: 12 oz,340,text
+247,quilt,35* Quilt (MYOG): 13.75 oz,390,text
+247,shelter,MLD Duomid: 15.5 oz,439,text
+248,pack,Pack: 18.6 oz,527,text
+248,pad,Pad: 8.85 oz,251,text
+248,quilt,Quilt: 18.5 oz,524,text
+248,shelter,Tent: 12.1 oz,343,text
+249,pack,Pack: 37.5 oz,1063,text
+249,pad,Sleeping Pad: 12.2 oz,346,text
+249,quilt,Quilt: 24 oz,680,text
+249,shelter,Tent Bug net: 13.7 oz,388,text
+250,pack,Pack 2: 18.4 oz,522,text
+250,pad,Torso pad: 6.35 oz,180,text
+250,quilt,Quilt: 23.5 oz,666,text
+250,shelter,Tarp: 6.42 oz,182,text
+251,pack,Pack: 26 oz,737,text
+251,pad,Sleeping pad: 17.6 oz,499,text
+251,quilt,Winter Quilt: 17.6 oz,499,text
+251,shelter,Tarp: 12 oz,340,text
+252,pack,Ultimate Direction Fastpack 40: 25.2 oz,714,text
+252,pad,Big Agnes Zoom UL: 19.4 oz,550,brand
+252,quilt,Zenbivy Ultralight Quilt: 22 oz,624,text
+252,shelter,SMD Lunar Solo: 26.3 oz,746,text
+253,pack,Fast Pack,540,text
+253,pad,,,
+253,quilt,Topquilt,392,text
+253,shelter,"Hammock, Quilted",1004,text
+254,pack,Gossamer Gear Murmur 36: 7.5 oz,213,text
+254,pad,Klymit Static V Lite Eco: 11 oz,312,text
+254,quilt,EE Enigma 40 degree 7D/7D: 14.5 oz,411,text
+254,shelter,Simply Light Designs 7D TrailBird : 7.4 oz,210,text
+255,pack,Backpack,492,text
+255,pad,Sleeping Pad,154,text
+255,quilt,Quilt,567,text
+255,shelter,Hammock,436,text
+256,pack,Backpack : 15 oz,425,text
+256,pad,Sleep Pad: 7.4 oz,210,text
+256,quilt,Quilt: 20.6 oz,584,text
+256,shelter,Shelter: 11.3 oz,320,text
+257,pack,Pack: 29.8 oz,845,text
+257,pad,Sleeping Pad,531,text
+257,quilt,Sleeping Bag,1000,text
+257,shelter,Tent,1220,text
+258,pack,Pack,414,text
+258,pad,Pad,360,text
+258,quilt,Sleepingbag,421,text
+258,shelter,Tarp,381,text
+259,pack,Backpack,1120,text
+259,pad,Sleeping pad,358,text
+259,quilt,Sleeping bag,822,text
+259,shelter,Tent + stuffsack,467,text
+260,pack,pack: 26.31 oz,746,text
+260,pad,pad: 9.24 oz,262,text
+260,quilt,quilt: 25.64 oz,727,text
+260,shelter,shelter: 11.85 oz,336,text
+261,pack,pack,393,text
+261,pad,sleeping pad,150,text
+261,quilt,quilt,535,text
+261,shelter,tarp,219,text
+262,pack,Nashville Cutaway: 14.1 oz,400,text
+262,pad,Thermarest Z Lite Sol: 14.22 oz,403,text
+262,quilt,Nunatak Arc UL 30: 21.59 oz,612,text
+262,shelter,Borah Bug Bivy Side Zipper: 7.76 oz,220,text
+263,pack,HMG Junction 2400: 30.12 oz,854,text
+263,pad,neoair xlite: 12 oz,340,text
+263,quilt,ee revelation 20: 21 oz,595,text
+263,shelter,zpacks altaplex: 15.4 oz,437,text
+264,pack,Backpack,798,text
+264,pad,Sleeping Pad,568,text
+264,quilt,Sleeping Bag,415,text
+264,shelter,Tent,530,text
+265,pack,Nantahala Gear 38L-Frameless w/HB: 28 oz,794,text
+265,pad,NeoAir XTherm Sleeping Pad: 15 oz,425,text
+265,quilt,EE Enigma 20* Quilt: 22 oz,624,text
+265,shelter,ZPacks Duplex tent: 19.6 oz,556,text
+266,pack,Pack : 14.9 oz,422,text
+266,pad,Pad Inflatable: 11.9 oz,337,text
+266,quilt,Quilt: 21.25 oz,602,text
+266,shelter,Tarp: 6.6 oz,187,text
+267,pack,Pack: 43 oz,1219,text
+267,pad,Klymit V insulated: 24 oz,680,text
+267,quilt,Slumberjack Plateau / 25�F / Teal: 3.4 lb,1542,text
+267,shelter,Shelter: 23.2 oz,658,text
+268,pack,SWD SL50 w/ Accessories: 28.1 oz,797,text
+268,pad,NEMO Tensor Elite: 11.6 oz,329,text
+268,quilt,EE Enigma 50: 11.04 oz,313,text
+268,shelter,Durston X-Mid Pro 1 DCF: 15.8 oz,448,text
+269,pack,pa'lante v2: 17 oz,482,text
+269,pad,pad: 15 oz,425,text
+269,quilt,sastrugi : 23 oz,652,text
+269,shelter,mld cricket: 13.3 oz,377,text
+270,pack,Yama Mountain Gear Pack: 17.9 oz,507,text
+270,pad,,,
+270,quilt,Nunatak Arc UL 20 Down Quilt: 21.7 oz,615,text
+270,shelter,Tarp: 7.75 oz,220,text
+271,pack,nunatak bear ears frameless UL: 25 oz,709,text
+271,pad,Thermarest Ridgerest: 12 oz,340,text
+271,quilt,warbonnet diamondback topquilt: 22.88 oz,649,text
+271,shelter,Borah Gear Tarp: 13.8 oz,391,text
+272,pack,Wapta 30,380,category
+272,pad,Kiwicamp Thermal roll 12mm,220,category
+272,quilt,EE Revelation 20,687,text
+272,shelter,Silpoly Tarp 5x9 including guy lines,200,text
+273,pack,ZPacks Arc Blast 60: 22.4 oz,635,text
+273,pad,Thermarest Neoair Uberlite: 8.8 oz,249,text
+273,quilt,Enlightened Equipment Enigma APEX 20�F: 25.99 oz,737,text
+273,shelter,Zpacks Solplex .74 Spruce Green: 17.9 oz,507,text
+274,pack,Pack: 10.5 oz,298,text
+274,pad,Pad: 7.25 oz,206,text
+274,quilt,Bag: 14 oz,397,text
+274,shelter,Shelter: 20 oz,567,text
+275,pack,Backpack,497,text
+275,pad,Sleeping pad,480,text
+275,quilt,Sleeping bag,483,text
+275,shelter,Tent Fly,490,text
+276,pack,MLD Burn,467,text
+276,pad,Thermarest,353,text
+276,quilt,UGQ,618,text
+276,shelter,MLD Solomid: 10 oz,284,text
+277,pack,Gossamer Gear Gorilla 40: 30 oz,850,text
+277,pad,Underquilt (pad): 25 oz,709,underquilt
+277,quilt,Top quilt: 25 oz,709,text
+277,shelter,Hammock (tent/groundsheet): 19 oz,539,text
+278,pack,Nashville Pack Cutaway: 14.25 oz,404,text
+278,pad,nemo switchback 6 panels: 5.96 oz,169,text
+278,quilt,Hammock Gear Burrow 30: 16.4 oz,465,text
+278,shelter,BPWD 6x9 DCF flat tarp w/ guyouts: 6.2 oz,176,text
+279,pack,Backpack: 14.8 oz,420,text
+279,pad,Sleeping Pad: 4.26 oz,121,text
+279,quilt,Quilt: 14.32 oz,406,text
+279,shelter,Tarp: 7.05 oz,200,text
+280,pack,LiteAF 30L Curve,460,text
+280,pad,Thermarest Neo Air Xlite,340,text
+280,quilt,Nunatak Alpinist UL,640,text
+280,shelter,Zpacks Duplex,623,text
+281,pack,Backpack: 44 oz,1247,text
+281,pad,Sleeping Pad: 32.3 oz,916,text
+281,quilt,Sleeping Bag: 40 oz,1134,text
+281,shelter,Tent: 25 oz,709,text
+282,pack,Backpack: 40.2 oz,1140,text
+282,pad,Sleeping Pad: 12.7 oz,360,text
+282,quilt,Sleeping Quilt: 19.96 oz,566,text
+282,shelter,Tent: 40.32 oz,1143,text
+283,pack,Backpack,453,text
+283,pad,Foam pad - Decathlon,132,text
+283,quilt,Quilt - 20 degree,686,text
+283,shelter,SMD Gatewood Cape,371,text
+284,pack,Osprey Exos 58 - No brain,1054,text
+284,pad,Nemo Switchback,426,text
+284,quilt,Golite  3-Season Quilt,709,text
+284,shelter,KNOT Tarp,300,text
+285,pack,Backpack: 13.86 oz,393,text
+285,pad,Ground Pad: 5.6 oz,159,text
+285,quilt,Quilt,552,text
+285,shelter,Borah Bivy,176,text
+286,pack,Pack: 28 oz,794,text
+286,pad,Pad: 12.5 oz,354,text
+286,quilt,Quilt: 18.65 oz,529,text
+286,shelter,Tent: 23 oz,652,text
+287,pack,Pack,885,text
+287,pad,Sleeping Pad,570,text
+287,quilt,Quilt,636,text
+287,shelter,Tent+Stakes,504,text
+288,pack,Pack: 15.5 oz,439,text
+288,pad,Sleeping Pad: 15.3 oz,434,text
+288,quilt,Quilt: 19.7 oz,558,text
+288,shelter,Tarp: 10.6 oz,300,text
+289,pack,Pack : 18.8 oz,533,text
+289,pad,SleepPad,250,text
+289,quilt,Bag,1313,text
+289,shelter,Tent,733,text
+290,pack,,,
+290,pad,,,
+290,quilt,,,
+290,shelter,,,
+291,pack,ZPacks Arc Blast pack 42-55L,667,text
+291,pad,Thermarest Neoair Xlite Wmns,338,text
+291,quilt,UnderclingMike 10�C quilt,325,text
+291,shelter,Liteway Pyraomm mid tarp,431,text
+292,pack,Backpack: 10.75 lb,4876,text
+292,pad,,,
+292,quilt,,,
+292,shelter,,,
+293,pack,Dandee 40: 0.82 lb,372,text
+293,pad,GG 1/8in Thinlight : 0.15 lb,68,text
+293,quilt,Quilt: 1.4 lb,635,text
+293,shelter,Tarp: 0.47 lb,213,text
+294,pack,Pack: 13 oz,369,text
+294,pad,Short Sleep Pad: 13 oz,369,text
+294,quilt,Down Blanket: 16 oz,454,category
+294,shelter,Tarp,209,text
+295,pack,Zpacks Arc Haul Ultra 100X w/accessories,735,text
+295,pad,"Exped Ultra 3R, MW",441,text
+295,quilt,EE Revelation 40 deg Quilt,466,text
+295,shelter,DurstonGear X-Mid Pro 2,805,text
+296,pack,Backpack,1158,text
+296,pad,Mattress Pad,453,text
+296,quilt,Sleeping Bag,1190,text
+296,shelter,Tent Fly,580,text
+297,pack,SUL Pack: 8.24 oz,234,text
+297,pad,Inflatable Sleeping Pad: 7.29 oz,207,text
+297,quilt,4 Season Quilt - %u2265 10�F: 23.99 oz,680,text
+297,shelter,Poncho Tarp: 12.89 oz,365,text
+298,pack,Pa'lante V2: 17.2 oz,488,text
+298,pad,Neoair Xlite Large: 16 oz,454,text
+298,quilt,Katabatic Flex 22: 22.5 oz,638,text
+298,shelter,Zpacks Duplex: 19.3 oz,547,text
+299,pack,Pack - Modified Arc: 22.8 oz,646,text
+299,pad,Pad (Xlite): 15.5 oz,439,text
+299,quilt,Quilt: 22.3 oz,632,text
+299,shelter,Tent (SMD): 24.2 oz,686,text
+300,pack,Pack : 34.45 oz,977,text
+300,pad,Pad: 20.05 oz,568,text
+300,quilt,Quilt: 17.64 oz,500,text
+300,shelter,Tent : 26.93 oz,763,text
+301,pack,Pack,470,text
+301,pad,CCF pad,244,text
+301,quilt,Quilt/bag,770,text
+301,shelter,Tent,1045,text
+302,pack,Dandee 30L pack: 13.4 oz,380,text
+302,pad,GG Thinlight 1/4th foam pad: 2.7 oz,77,text
+302,quilt,Katabatic Palisade '23: 21.15 oz,600,text
+302,shelter,Meadowphysics Adbode: 4.95 oz,140,text
+303,pack,Pack: 23 oz,652,text
+303,pad,Sleeping pad: 11.8 oz,335,text
+303,quilt,Quilt: 12.9 oz,366,text
+303,shelter,Bivy: 5.84 oz,166,text
+304,pack,ULA Circuit: 2.28 lb,1034,text
+304,pad,Bottom Quilt: 15 oz,425,underquilt
+304,quilt,Top Quilt: 18 oz,510,text
+304,shelter,Hammock: 12.43 oz,352,text
+305,pack,Atom Pack (frameless),435,text
+305,pad,Neoair Xlite inflatable mat,348,text
+305,quilt,ULE 35F/2C quilt,455,text
+305,shelter,Borah tarp,315,text
+306,pack,Backpack,260,text
+306,pad,Sleeping pad,132,text
+306,quilt,Quilt,465,text
+306,shelter,Bivy,154,text
+307,pack,frameless 40L pack : 15.6 oz,442,text
+307,pad,r3.5 torso sleeping pad: 9.9 oz,281,text
+307,quilt,comfort 38 degree quilt: 17.2 oz,488,text
+307,shelter,small A frame tarp: 6.05 oz,172,text
+308,pack,Backpack: 13 oz,369,text
+308,pad,Sleeping pad: 14.11 oz,400,text
+308,quilt,Sleeping bag: 15.9 oz,451,text
+308,shelter,Tent: 17.73 oz,503,text
+309,pack,Backpack,285,text
+309,pad,Sleeping Pad,230,text
+309,quilt,Quilt,385,text
+309,shelter,Tarp,112,text
+310,pack,Pack: 32.5 oz,921,text
+310,pad,Bottom Quilt: 16 oz,454,underquilt
+310,quilt,Top Quilt: 17.3 oz,490,text
+310,shelter,Hammock: 33 oz,936,text
+311,pack,Pack: 24.41 oz,692,text
+311,pad,Sleeping Pad - UL: 10.69 oz,303,text
+311,quilt,Quilt + Dry Bag - Warm Weather : 20.83 oz,591,text
+311,shelter,Tent + Stuff Sack - 1 Person: 15.45 oz,438,text
+312,pack,Zpacks Arc Haul Ultra 50L,614,text
+312,pad,Nemo Tensor,590,text
+312,quilt,EE 50 Revelation - xl/xw,417,text
+312,shelter,X-Mid Pro 2+ w/stakes,780,text
+313,pack,Pack: 30 oz,850,text
+313,pad,Sleeping Pad: 15.5 oz,439,text
+313,quilt,Quilt: 23 oz,652,text
+313,shelter,Tent: 28 oz,794,text
+314,pack,**b4 backpack 38L: 30.52 oz,865,text
+314,pad,b4 sleeping pad: 6 oz,170,text
+314,quilt,b4 paria 15� quilt: 34.23 oz,970,text
+314,shelter,**b4 tent: 52 oz,1474,text
+315,pack,Pack,411,text
+315,pad,Sleeping Pad,148,text
+315,quilt,Quilt,589,text
+315,shelter,Shelter,311,text
+316,pack,DD40: 32.6 oz,924,text
+316,pad,NeoAir Xlite - Regular: 0.43 kg,430,text
+316,quilt,Serratus 20F Quilt: 18 oz,510,text
+316,shelter,X-mid 2 Pro: 21 oz,595,text
+317,pack,ULA Ohm: 34 oz,964,text
+317,pad,Klymit Static V insulated: 23 oz,652,text
+317,quilt,Spark 15 Sleeping bag: 39 oz,1106,text
+317,shelter,Big Agnes Fly Creek HV UL2: 36.2 oz,1026,text
+318,pack,Pack: 13.9 oz,394,text
+318,pad,Pad: 12.2 oz,346,text
+318,quilt,Quilt: 10 oz,284,text
+318,shelter,Bivy: 7 oz,198,text
+319,pack,Osprey Exos Pro 55,846,text
+319,pad,Nemo tenor all season wide regular,530,text
+319,quilt,Aegismax Hard Wind Twilight,585,text
+319,shelter,Lanshan 1 4 season,926,text
+320,pack,backpack: 35.38 oz,1003,text
+320,pad,pad: 29.3 oz,831,text
+320,quilt,sleeping bag: 31 oz,879,text
+320,shelter,underpad: 3 oz,85,eliminated
+321,pack,Backpack,800,text
+321,pad,Sleeping pad,525,text
+321,quilt,Down quilt,645,text
+321,shelter,Tent,455,text
+322,pack,Nashville Pack Cutaway: 15.75 oz,446,text
+322,pad,Zlite: 9.4 oz,266,text
+322,quilt,20� Golite quilt: 19.5 oz,553,text
+322,shelter,Gatewood Cape: 9.8 oz,278,text
+323,pack,Durston Kawka 40L,795,text
+323,pad,NEMO Tensor All-Season Ultralight Insulated Sleeping Pad: 19,539,text
+323,quilt,EE Revelation 20 Degrees: 20.4 oz,578,text
+323,shelter,Zpacks Triplex,666,text
+324,pack,Backpack,595,text
+324,pad,Sleeping pad,445,text
+324,quilt,Sleeping bag,565,text
+324,shelter,Tent,1011,text
+325,pack,Backpack,453,text
+325,pad,CCF pad,170,text
+325,quilt,Quilt,520,text
+325,shelter,Shelter,294,text
+326,pack,Backpack,640,text
+326,pad,Sleeping Pad,448,text
+326,quilt,Quilt,622,text
+326,shelter,Poncho Tarp,332,text
+327,pack,Gossamer Gear Kumo: 16.5 oz,468,text
+327,pad,Pad: 7.2 oz,204,text
+327,quilt,Top insulator: 28 oz,794,category
+327,shelter,Bug protection: 9.56 oz,271,category
+328,pack,Pack: 18.6 oz,527,text
+328,pad,Sleeping Pad (Air): 5 oz,142,text
+328,quilt,Quilt: 26 oz,737,text
+328,shelter,Tarp: 8 oz,227,text
+329,pack,Kakwa 40: 27.34 oz,775,text
+329,pad,Tensor Regular (2023): 14.22 oz,403,text
+329,quilt,Revelation 20 950 baffles & straps: 22.62 oz,641,text
+329,shelter,X-Mid Pro 2 (DCF Floor) w/sack + longer lines for rocks: 19.,561,text
+330,pack,Nashville Cutaway 30,363,text
+330,pad,"Switchback, 6 panels",171,text
+330,quilt,WM Astralite: 16 oz,454,category
+330,shelter,Plex Solo,344,text
+331,pack,Millet Prolighter 38+10: 1.2 kg,1200,text
+331,pad,Therm-a-rest Neo Air Xlite NXT,370,text
+331,quilt,Cumulus Lite Line 400,705,text
+331,shelter,MSR Hubba Hubba NX2: 1.72 kg,1720,text
+332,pack,Pack,1150,text
+332,pad,Sleeping Pad,369,text
+332,quilt,Sleeping Bag,1048,text
+332,shelter,Tent,690,text
+333,pack,Backpack: 40 oz,1134,text
+333,pad,Exped SynMat HL: 19.61 oz,556,text
+333,quilt,Quilt: 20.11 oz,570,text
+333,shelter,Tarp: 5.5 oz,156,text
+334,pack,Backpack,1053,text
+334,pad,Sleeping Pad,415,text
+334,quilt,Sleeping bag,567,text
+334,shelter,Tent,544,text
+335,pack,SWD Superior 35,563,text
+335,pad,NeoAir Xlite,224,text
+335,quilt,UGQ Bandit 30F Quilt,552,text
+335,shelter,Tarptent MoTrail,996,text
+336,pack,Yamatomichi ONE,602,category
+336,pad,Sleeping Mat (R4),540,text
+336,quilt,False-Bottom Sleeping Bag,710,text
+336,shelter,Tent,165,text
+337,pack,Pack: 25.48 oz,722,text
+337,pad,Mattress pad: 2 oz,57,text
+337,quilt,,,
+337,shelter,Tent outer: 11 oz,312,text
+338,pack,BACKPACK,2400,text
+338,pad,FULL SIZE INFLATABLE SLEEPING PAD,464,text
+338,quilt,SLEEPING BAG,1757,text
+338,shelter,TENT,2400,text
+339,pack,Palante V2: 15.5 oz,439,text
+339,pad,Nemo Tensor Short/Torso: 8.52 oz,242,text
+339,quilt,Enlightened Equipment Enigma: 10.9 oz,309,text
+339,shelter,MLD Superlight Solo Bivy DCF: 5.4 oz,153,text
+340,pack,HMG Windrider 3400: 32.4 oz,919,text
+340,pad,Nemo Switchback: 10.09 oz,286,text
+340,quilt,EE Revelation 800FP20�quilt: 24.51 oz,695,text
+340,shelter,HMG Mid 1: 15.94 oz,452,text
+341,pack,Backpack: 3 lb,1361,text
+341,pad,Nemo Tensor Trail Sleeping Pad: 18 oz,510,text
+341,quilt,,,
+341,shelter,Tarptent Double Rainbow: 41 oz,1162,text
+342,pack,pack (1 lb 15.5 oz): 31.5 oz,893,text
+342,pad,Underquilt (1.46 lbs): 23 oz,652,underquilt
+342,quilt,TOPQUILT (2.14 lbs: 34 oz,964,text
+342,shelter,Hammock: 1.1 lb,499,text
+343,pack,Pa'lante Simple Pack v2: 13.4 oz,380,text
+343,pad,Sleeping Pad: 12.4 oz,352,text
+343,quilt,Sleeping Bag: 17.4 oz,493,text
+343,shelter,Tent: 15 oz,425,text
+344,pack,Bag,620,text
+344,pad,pad,440,text
+344,quilt,Sleeping bag,710,text
+344,shelter,Tent (mid),485,text
+345,pack,,,
+345,pad,,,
+345,quilt,,,
+345,shelter,,,
