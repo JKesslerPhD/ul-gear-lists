@@ -2,7 +2,7 @@
 
 What are ultralight backpackers actually carrying? An anonymized database of 345 public LighterPack lists from r/Ultralight users who keep a LighterPack link in their user flair, plus the code that identifies each list's pack, shelter, quilt and sleeping pad and turns the lists into the numbers behind the post [What Gear Are Ultralight Backpackers Using?](https://trailpeaches.com/?p=2561).
 
-Everything is standard-library Python 3 and SQLite. No dependencies.
+Everything is standard-library Python 3 and SQLite, except the optional word clouds (Pillow and numpy).
 
 ## What is in here
 
@@ -14,6 +14,7 @@ Everything is standard-library Python 3 and SQLite. No dependencies.
 | `analysis/report.py` | Base-weight summary, the Big 4, frequency and weight of ~55 item "slots", the median gear list. |
 | `analysis/modal_kit.py` | The modal kit and the top 5 products per category. |
 | `analysis/cohort_check.py` | Compares the two ways the users were found. |
+| `analysis/wordclouds.py` | The brand/model word clouds per category (needs Pillow and numpy; fonts in `fonts/`). |
 | `tests/` | Regression test against the hand-checked classifier picks. |
 
 ## Run it
@@ -22,6 +23,7 @@ Everything is standard-library Python 3 and SQLite. No dependencies.
 python3 analysis/report.py        # writes out/report.txt, out/item_frequency.csv, out/median_gearlist.csv, out/slot_models.json
 python3 analysis/modal_kit.py     # writes out/modal_kit.csv, out/top5_by_category.csv
 python3 analysis/cohort_check.py
+pip install pillow numpy && python3 analysis/wordclouds.py   # optional: word clouds to out/wordclouds/
 python3 tests/test_classifier.py
 python3 -m ulgear.classifier --misses     # lists where a role was not found
 python3 -m ulgear.classifier --show 17    # all items of list 17 with the role each got
